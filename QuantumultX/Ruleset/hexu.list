@@ -1,1 +1,16 @@
 
+HOST-SUFFIX,cursor.sh,cursor
+HOST-SUFFIX,cursor-cdn.com,cursor
+HOST-SUFFIX,cursorapi.com,cursor
+HOST-SUFFIX,cursor.com,cursor
+HOST-SUFFIX,workos.com,cursor
+
+HOST-SUFFIX,augmentcode.com,augment
+
+HOST-SUFFIX:claude.ai,aigc
+HOST-SUFFIX:anthropic.com,aigc
+HOST-SUFFIX:gemini.google.com,aigc
+#domain:ai.google.dev,aigc
+#domain:aistudio.google.com,aigc
+HOST-SUFFIX:alkalimakersuite-pa.clients6.google.com,aigc
+HOST-SUFFIX:generativelanguage.googleapis.com,aigc
